@@ -142,6 +142,6 @@ Cumpre destacar, ainda, que a escolha de uma corrente filosófica depende dos in
 
 1. ChatGPT, Gênio de texto processado (Generative Pre-trained Transformer);
 
-2. “O que me pertence é o que eu levo comigo, não o que está ao meu redor” (Diógenes de Sinope);
+2. Estoicismo: a Filosofia da felicidade e do desapego | Leandro Karnal.
 
-3. Estoicismo: a Filosofia da felicidade e do desapego | Leandro Karnal.
+3. “O que me pertence é o que eu levo comigo, não o que está ao meu redor” (Diógenes de Sinope);
