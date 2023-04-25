@@ -4,7 +4,7 @@ RESPONSABILIDADE na circulação de notícias potencialmente falsas
 
 As pessoas que circulam notícias potencialmente falsas o fazem sem perceber que são imprecisas ou enganosas. Elas são motivadas por emoções fortes e não resistem em tentar defender suas opiniões, compartilhando sem se preocupar com a veracidade das informações.
 
-![Janela para o horizonte](imagens/janela-horizonte.jpg)
+![Janela para o horizonte](https://raw.githubusercontent.com/h4mn/academicos/main/imagens/janela-horizonte.jpg)
 
 Figura 1 - Janela para o horizonte
 
